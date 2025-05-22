@@ -1,0 +1,7 @@
+C:\Users\Kab-31-13\Desktop\43.2\bin\Debug\43.2.exe.config
+C:\Users\Kab-31-13\Desktop\43.2\bin\Debug\43.2.exe
+C:\Users\Kab-31-13\Desktop\43.2\bin\Debug\43.2.pdb
+C:\Users\Kab-31-13\Desktop\43.2\obj\Debug\43.2.csproj.AssemblyReference.cache
+C:\Users\Kab-31-13\Desktop\43.2\obj\Debug\43.2.csproj.CoreCompileInputs.cache
+C:\Users\Kab-31-13\Desktop\43.2\obj\Debug\43.2.exe
+C:\Users\Kab-31-13\Desktop\43.2\obj\Debug\43.2.pdb
